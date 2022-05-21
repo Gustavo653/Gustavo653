@@ -5,13 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo653&theme=dark"/>
     <a/>
 </div>
-
-
-### About me
-- 🥰 I’m currently learning C# 
-- 📷 I love photography
-- 🤝🏽 I love helping people
-- 💪🏽 Working as a team is very satisfying because everyone helps each other
   
   ### Contact-me at
   <div>
